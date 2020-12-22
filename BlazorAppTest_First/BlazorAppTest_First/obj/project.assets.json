@@ -6555,11 +6555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\TestCode\\Blazor1222\\BlazorAppTest_First\\BlazorAppTest_First\\BlazorAppTest_First.csproj",
+      "projectUniqueName": "D:\\Projects\\TestCode\\BlazorAppTest_First\\BlazorAppTest_First\\BlazorAppTest_First.csproj",
       "projectName": "BlazorAppTest_First",
-      "projectPath": "D:\\Projects\\TestCode\\Blazor1222\\BlazorAppTest_First\\BlazorAppTest_First\\BlazorAppTest_First.csproj",
+      "projectPath": "D:\\Projects\\TestCode\\BlazorAppTest_First\\BlazorAppTest_First\\BlazorAppTest_First.csproj",
       "packagesPath": "C:\\Users\\Bala\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\TestCode\\Blazor1222\\BlazorAppTest_First\\BlazorAppTest_First\\obj\\",
+      "outputPath": "D:\\Projects\\TestCode\\BlazorAppTest_First\\BlazorAppTest_First\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
